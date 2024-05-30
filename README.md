@@ -7,10 +7,9 @@ Front-End Developer
 I'm Mohamed Alaa, a Front-End Developer trained in JavaScript, Typescript, React.js, Redux, Next.js, CSS, Sass, Tailwind, Bootstrap, Material UI, Chakra Ui, HTML, SQL Server, C#,.Net, Node.js, and AWS and I have a year of expertise as a JavaScript Developer.
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [My website](https://mohamedalaadev-5c497.web.app/)
+* 🖥️  See my portfolio at [My website](https://mohamed-alaa-dev.vercel.app/)
 * ✉️  You can contact me at [mohamed.alaa.elhefny@gmail.com](mailto:mohamed.alaa.elhefny@gmail.com)
-* 🚀  I'm currently working on [E Commerce web app](https://github.com/MohamedAlaa28/e-commece-web-app)
-* 🧠  I'm learning Object Oriented Programming using C#, Visual C# .Net and ES.Next
+* 🧠  I'm learning Object Oriented Programming using C#, Visual C# .Net , ES.Next and Angular
 * 🤝  I'm open to collaborating on Other Front-End projects
 * ⚡  I love going to the gym
 
