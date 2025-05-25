@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 --------------------
 
-I'm a front-end developer who loves building dynamic, high-performance web applications. I excel at Angular, React, and Next.js for creating seamless and interactive user experiences. I have done a great job in creating scalable solutions to meet business and user requirements. My skills cover modern front-end technologies that make the applications efficient and engaging. I seek to build effective and beneficial solutions with a lot of efficiency.
+I am Mohamed El Hefny, a front-end developer who loves building dynamic, high-performance web applications. I excel at Angular, React, and Next.js for creating seamless and interactive user experiences. I have done a great job in creating scalable solutions to meet business and user requirements. My skills cover modern front-end technologies that make the applications efficient and engaging I seek to build effective and beneficial solutions with a lot of efficiency.
 
 * 🌍 I'm based in Egypt
 * 🖥️ See my portfolio at [My website](https://mohamed-elhefny-dev.vercel.app/)
